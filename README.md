@@ -1,5 +1,5 @@
 # Hola gente!! 🚀 
-## console.log("¡Aprendo sin parar!"); ⌨️
+## console.log("¡Aprende sin parar!"); ⌨️
  
 - Developer ⚙️
 
